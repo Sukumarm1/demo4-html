@@ -8,6 +8,10 @@
 
 <h1> clone </h1>
 
+<h2> push </h2>
+
+<h3> pull </h3>
+
 </body
 
 </head>
